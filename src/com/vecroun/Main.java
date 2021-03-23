@@ -62,23 +62,23 @@ public class Main {
             while (!Iamplitude.isEmpty()) {
                 System.out.print(Iamplitude.pop() + ", ");
             }
-            System.out.println("]");
+            System.out.println("\b\b]");
             System.out.print("Iphase = \n[");
             while (!Iphase.isEmpty()) {
                 System.out.print(Iphase.pop() + ", ");
             }
-            System.out.println("]");
+            System.out.println("\b\b]");
 
             System.out.print("Uamplitude = \n[");
             while (!Uamplitude.isEmpty()) {
                 System.out.print(Uamplitude.pollFirst() + ", ");
             }
-            System.out.println("]");
+            System.out.println("\b\b]");
             System.out.print("Uphase = \n[");
             while (!Uphase.isEmpty()) {
                 System.out.print(Uphase.pollFirst() + ", ");
             }
-            System.out.println("]");
+            System.out.println("\b\b]");
         } catch (IOException e) {
             e.printStackTrace();
         }
