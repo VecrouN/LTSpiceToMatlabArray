@@ -9,4 +9,4 @@
 файл input.txt:  
 ![image](https://user-images.githubusercontent.com/33600109/112156376-3f4b1400-8bf7-11eb-9776-05510ce032a1.png)
 Вывод программы:  
-![image](https://user-images.githubusercontent.com/33600109/112156598-715c7600-8bf7-11eb-88b9-11ea5ec01b41.png)
+![image](https://user-images.githubusercontent.com/33600109/112175614-70801000-8c08-11eb-866b-2fffb89d95cd.png)
