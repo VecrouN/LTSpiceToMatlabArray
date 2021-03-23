@@ -58,18 +58,18 @@ public class Main {
 
                 }
             }
-            System.out.println("Iamplitude = \n[");
+            System.out.print("Iamplitude = \n[");
             while (!Iamplitude.isEmpty()) {
                 System.out.print(Iamplitude.pop() + ", ");
             }
             System.out.println("]");
-            System.out.println("Iphase = \n[");
+            System.out.print("Iphase = \n[");
             while (!Iphase.isEmpty()) {
                 System.out.print(Iphase.pop() + ", ");
             }
             System.out.println("]");
 
-            System.out.println("Uamplitude = \n[");
+            System.out.print("Uamplitude = \n[");
             while (!Uamplitude.isEmpty()) {
                 System.out.print(Uamplitude.pollFirst() + ", ");
             }
